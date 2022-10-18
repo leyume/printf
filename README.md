@@ -1,1 +1,1 @@
-# C printf project of two person Leye and Kabiru.
+# C printf project of two people, Leye and Kabiru.

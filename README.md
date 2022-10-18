@@ -1,1 +1,1 @@
-# Our readme file on C printf project of two person Leyemu nd Kabiru.
+# C printf project of two person Leye and Kabiru.

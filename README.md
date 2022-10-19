@@ -1,1 +1,1 @@
-# My first readme file on C printf project.
+# C printf project of two people, Leye and Kabiru.
